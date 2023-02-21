@@ -337,7 +337,7 @@
     align-items: center;
     justify-content: center;
     background: #FFFFFF;
-    box-shadow: 0 0 45px rgba(0, 0, 0, .07);
+    box-shadow: 0 0 45px (0, 0, 0, .07);
     transition: .5s;
     z-index: 1;
 }
